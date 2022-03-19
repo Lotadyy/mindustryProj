@@ -1,4 +1,4 @@
-package example;
+package Main;
 
 import arc.*;
 import arc.util.*;
@@ -8,7 +8,7 @@ import mindustry.game.EventType.*;
 import mindustry.gen.*;
 import mindustry.mod.*;
 import mindustry.ui.dialogs.*;
-//CHANGE THE GODAMN COMMIT U MONMKEY APE
+
 public class ExampleJavaMod extends Mod{
 
     public ExampleJavaMod(){

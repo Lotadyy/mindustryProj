@@ -1,5 +1,5 @@
 #the mod name as displayed in-game
-displayName: "Java Mod Template"
+displayName: "TestMod1"
 
 #the internal name of your mod
 name: "TestMod1"
@@ -17,7 +17,7 @@ description: "TestMod1"
 version: 0.1
 
 #the minimum game build required to run this mod
-minGameVersion: 109
+minGameVersion: 129
 
 #this is a java mod
 java: true
