@@ -17,7 +17,7 @@ description: "TestMod1"
 version: 0.1
 
 #the minimum game build required to run this mod
-minGameVersion: 120
+minGameVersion: 109
 
 #this is a java mod
 java: true
