@@ -1,11 +1,11 @@
 #the mod name as displayed in-game
-displayName: "TestMod1"
+displayName: "Czarr's Mod"
 
 #the internal name of your mod
-name: "TestMod1"
+name: "czarr-mod"
 
 #your name
-author: "Czarr"
+author: "Czarr (904260002)"
 
 #the fully qualified main class of the mod
 main: "example.ExampleJavaMod"
