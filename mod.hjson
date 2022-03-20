@@ -8,7 +8,7 @@ name: "czarr-mod"
 author: "Czarr (904260002)"
 
 #the fully qualified main class of the mod
-main: "main.ExampleJavaMod"
+main: "Main.MainJavaClass"
 
 #the mod description as seen in the mod dialog
 description: "Czarr's mod, trying to make it good :)"
